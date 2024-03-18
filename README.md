@@ -20,7 +20,7 @@ To deploy the application using the ARM template, follow these steps:
 4. Select the `deploy.json` file from the cloned repository.
 5. Follow the on-screen instructions to customize the deployment parameters.
 6. Click on the "Deploy" button to start the deployment process.
-7. Monitor the deployment progress in the Azure Portal.
+7. Monitor the deployment progress in the Azure Portal..
 
 ## GitHub Actions Workflows
 
