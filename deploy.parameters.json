@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "CRUD application 2"
+            "value": "GitHub-Copilot-Challenge-App"
         }
     }
 }
